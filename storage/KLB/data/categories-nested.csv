@@ -1,0 +1,233 @@
+slug,name,parentSlug,parent,tier,position,status,description,display_mode
+clearance,CLEARANCE,root,1,1,1,1,,products_only
+beautyoffers,Sales & Offers,root,1,1,2,1,,products_only
+new-arrivals,New,root,1,1,3,1,,products_only
+best-sellers,Best Sellers,root,1,1,4,1,,products_only
+skincare-1,Skin Care,root,1,1,5,1,,products_only
+hair-care,Hair Care,root,1,1,6,1,,products_only
+makeup,Makeup,root,1,1,7,1,,products_only
+bath-body,Bath & Body,root,1,1,8,1,,products_only
+brands,Brands,root,1,1,9,1,,products_only
+clean,Clean,root,1,1,10,1,,products_only
+https://edit.kalista-beauty.com/,Kalista Edit,root,1,1,11,1,,products_only
+holiday-gifts-sets,Holiday Gifts Sets & Bundles,root,1,1,12,1,,products_only
+set,Set,root,1,1,1,0,,products_only
+accessories,Accessories,Makeup,Makeup,2,1,1,,products_only
+bath-body-sets,Bath & Body Sets,bath-body,Bath & Body,2,1,1,,products_only
+bath-shower,Bath & Shower,bath-body,Bath & Body,2,1,1,,products_only
+body-care,Body Care,bath-body,Bath & Body,2,1,1,,products_only
+body-moisturizers,Body Moisturizers,bath-body,Bath & Body,2,1,1,,products_only
+dental,Dental,bath-body,Bath & Body,2,1,1,,products_only
+decollete--neck-creams,Decollete & Neck Creams,skincare-1,Skin Care,2,1,1,,products_only
+sun-care,Sun Care,skincare-1,Skin Care,2,1,1,,products_only
+brands-a-c,A-C ,brands,Brands,2,1,1,,products_only
+brands-d-f,D-F,brands,Brands,2,1,1,,products_only
+brands-g-i,G-I,brands,Brands,2,1,1,,products_only
+brands-j-l,J-L,brands,Brands,2,1,1,,products_only
+brands-m-p,M-P,brands,Brands,2,1,1,,products_only
+brands-q-s,Q-S,brands,Brands,2,1,1,,products_only
+brands-t-v,T-V,brands,Brands,2,1,1,,products_only
+brands-w-z,W-Z,brands,Brands,2,1,1,,products_only
+clearance-hair-care,CLEARANCE HAIR CARE,hair-care,Hair Care,2,1,1,,products_only
+hair,Hair,hair-care,Hair Care,2,1,1,,products_only
+clearance-makeup,CLEARANCE MAKEUP,makeup,Makeup,2,1,1,,products_only
+eye-makeup,EYE MAKEUP,makeup,Makeup,2,1,1,,products_only
+face-makeup,Face Makeup,makeup,Makeup,2,1,1,,products_only
+lips,LIPS,makeup,Makeup,2,1,1,,products_only
+makeup-sets,Makeup Sets,makeup,Makeup,2,1,1,,products_only
+tools,TOOLS,makeup,Makeup,2,1,1,,products_only
+clearance-skin-care,CLEARANCE SKIN CARE,skincare-1,Skin Care,2,1,1,,products_only
+eyes,EYES,skincare-1,Skin Care,2,1,1,,products_only
+face,FACE,skincare-1,Skin Care,2,1,1,,products_only
+mens-1,MEN'S,skincare-1,Skin Care,2,1,1,,products_only
+skin-care-sets,Skin Care Sets,skincare-1,Skin Care,2,1,1,,products_only
+travel-mini-size,Travel & Mini Size,skincare-1,Skin Care,2,1,1,,products_only
+night-creams,Night Creams,skincare-1,Skin Care,2,1,1,,products_only
+3lab,3LAB,brands-a-c,A-C ,3,1,1,,products_only
+aesop,Aesop,brands-a-c,A-C ,3,1,1,,products_only
+algenist,Algenist,brands-a-c,A-C ,3,1,1,,products_only
+alpha-h,Alpha-H,brands-a-c,A-C ,3,1,1,,products_only
+armani-beauty,Armani Beauty,brands-a-c,A-C ,3,1,1,,products_only
+aromatherapy-associates,Aromatherapy Associates,brands-a-c,A-C ,3,1,1,,products_only
+avene,AvÃ¨ne,brands-a-c,A-C ,3,1,1,,products_only
+aveda,Aveda,brands-a-c,A-C ,3,1,1,,products_only
+balmain,Balmain,brands-a-c,A-C ,3,1,1,,products_only
+bare-minerals,BareMinerals,brands-a-c,A-C ,3,1,1,,products_only
+becca,Becca,brands-a-c,A-C ,3,1,1,,products_only
+benefit,Benefit,brands-a-c,A-C ,3,1,1,,products_only
+bio-oil,Bio-Oil,brands-a-c,A-C ,3,1,1,,products_only
+bioderma,Bioderma,brands-a-c,A-C ,3,1,1,,products_only
+biotherm,Biotherm,brands-a-c,A-C ,3,1,1,,products_only
+bobbi-brown,Bobbi Brown,brands-a-c,A-C ,3,1,1,,products_only
+by-terry,By Terry,brands-a-c,A-C ,3,1,1,,products_only
+carita,Carita,brands-a-c,A-C ,3,1,1,,products_only
+caudalie,Caudalie,brands-a-c,A-C ,3,1,1,,products_only
+cellcosmet,Cellcosmet,brands-a-c,A-C ,3,1,1,,products_only
+chanel,CHANEL,brands-a-c,A-C ,3,1,1,,products_only
+chantecaille,Chantecaille,brands-a-c,A-C ,3,1,1,,products_only
+christian-dior,Christian Dior,brands-a-c,A-C ,3,1,1,,products_only
+cle-de-peau-beaute,ClÃ© de Peau BeautÃ©,brands-a-c,A-C ,3,1,1,,products_only
+clarins,Clarins,brands-a-c,A-C ,3,1,1,,products_only
+clinique,Clinique,brands-a-c,A-C ,3,1,1,,products_only
+bath-soaks--bubble-bath,Bath Soaks & Bubble Bath,bath-shower,Bath & Shower,3,1,1,,products_only
+body-wash--shower-gel,Body Wash & Shower Gel,bath-shower,Bath & Shower,3,1,1,,products_only
+hand-wash--soap,Hand Wash & Soap,bath-shower,Bath & Shower,3,1,1,,products_only
+cellulite--stretch-marks,Cellulite & Stretch Marks,body-care,Body Care,3,1,1,,products_only
+deodorant--antiperspirant,Deodorant & Antiperspirant,body-care,Body Care,3,1,1,,products_only
+oral-hygiene,Oral Hygiene,body-care,Body Care,3,1,1,,products_only
+hand-cream,Hand Cream,body-moisturizers,Body Moisturizers,3,1,1,,products_only
+eye-palettes,Eye Palettes,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+eyebrow,Eyebrow,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+eyeliner,Eyeliner,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+eyeshadow,Eyeshadow,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+mascara,Mascara,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+eye-creams,Eye Creams,eyes,EYES,3,1,1,,products_only
+eye-masks,Eye Masks,eyes,EYES,3,1,1,,products_only
+eye-serum--treatments,Eye Serum & Treatments,eyes,EYES,3,1,1,,products_only
+cleansers--toners,Cleansers & Toners,eyes,FACE,3,1,1,,products_only
+face-masks,Face Masks,eyes,FACE,3,1,1,,products_only
+face-oils,Face Oils,eyes,FACE,3,1,1,,products_only
+face-serums,Face Serums,eyes,FACE,3,1,1,,products_only
+makeup-removers,Makeup Removers,eyes,FACE,3,1,1,,products_only
+moisturizers,Moisturizers,eyes,FACE,3,1,1,,products_only
+scrub--exfoliants,Scrub & Exfoliants,eyes,FACE,3,1,1,,products_only
+toners,Toners,eyes,FACE,3,1,1,,products_only
+treatments,Treatments,eyes,FACE,3,1,1,,products_only
+bb--cc-cream,BB & CC Cream,eye-makeup,Face Makeup,3,1,1,,products_only
+blush,Blush,eye-makeup,Face Makeup,3,1,1,,products_only
+color-correct,Color Correct,eye-makeup,Face Makeup,3,1,1,,products_only
+concealer,Concealer,eye-makeup,Face Makeup,3,1,1,,products_only
+contour,Contour,eye-makeup,Face Makeup,3,1,1,,products_only
+foundation,Foundation,eye-makeup,Face Makeup,3,1,1,,products_only
+highlighter,Highlighter,eye-makeup,Face Makeup,3,1,1,,products_only
+setting-spray--powder,Setting Spray & Powder,eye-makeup,Face Makeup,3,1,1,,products_only
+tinted-moisturizer,Tinted Moisturizer,eye-makeup,Face Makeup,3,1,1,,products_only
+conditioner,Conditioner,hair,HAIR,3,1,1,,products_only
+hair-brushes--combs,Hair Brushes & Combs,hair,HAIR,3,1,1,,products_only
+hair-masks,Hair Masks,hair,HAIR,3,1,1,,products_only
+scalp--hair-treatments,Scalp & Hair Treatments,hair,HAIR,3,1,1,,products_only
+shampoo,Shampoo,hair,HAIR,3,1,1,,products_only
+styling,Styling,hair,HAIR,3,1,1,,products_only
+lip-balm,Lip Balm,lips,LIPS,3,1,1,,products_only
+lip-gloss,Lip Gloss,lips,LIPS,3,1,1,,products_only
+lip-plumper,Lip Plumper,lips,LIPS,3,1,1,,products_only
+lip-stain,Lip Stain,lips,LIPS,3,1,1,,products_only
+lipstick,Lipstick,lips,LIPS,3,1,1,,products_only
+shaving--bleaching,Shaving & Bleaching,mens-1,MEN'S,3,1,1,,products_only
+body-scrubs-and-exfoliators,Body Scrubs and Exfoliators,bath-shower,Bath & Shower,3,1,1,,products_only
+darphin,Darphin,brands-d-f,D-F,3,1,1,,products_only
+davines,Davines,brands-d-f,D-F,3,1,1,,products_only
+decorte,DecortÃ©,brands-d-f,D-F,3,1,1,,products_only
+dermalogica,Dermalogica,brands-d-f,D-F,3,1,1,,products_only
+diam-beaute,Diam BeautÃ©,brands-d-f,D-F,3,1,1,,products_only
+dolce-gabbana,Dolce & Gabbana,brands-d-f,D-F,3,1,1,,products_only
+dr-brandt,Dr. Brandt,brands-d-f,D-F,3,1,1,,products_only
+dr-dennis-gross,Dr. Dennis Gross,brands-d-f,D-F,3,1,1,,products_only
+dr-hauschka,Dr. Hauschka,brands-d-f,D-F,3,1,1,,products_only
+elemis,Elemis,brands-d-f,D-F,3,1,1,,products_only
+elizabeth-arden,Elizabeth Arden,brands-d-f,D-F,3,1,1,,products_only
+embryolisse,Embryolisse,brands-d-f,D-F,3,1,1,,products_only
+erno-laszlo,Erno Laszlo,brands-d-f,D-F,3,1,1,,products_only
+estee-lauder,EstÃ©e Lauder,brands-d-f,D-F,3,1,1,,products_only
+eve-lom,Eve Lom,brands-d-f,D-F,3,1,1,,products_only
+evidens-de-beaute,EviDenS de BeautÃ©,brands-d-f,D-F,3,1,1,,products_only
+exuviance,Exuviance,brands-d-f,D-F,3,1,1,,products_only
+farmacy,FARMACY,brands-d-f,D-F,3,1,1,,products_only
+fenty-beauty,Fenty Beauty,brands-d-f,D-F,3,1,1,,products_only
+filorga,Filorga,brands-d-f,D-F,3,1,1,,products_only
+first-aid-beauty,First Aid Beauty,brands-d-f,D-F,3,1,1,,products_only
+fresh,Fresh,brands-d-f,D-F,3,1,1,,products_only
+oral-care,Oral Care,dental,Dental,3,1,1,,products_only
+eye-concealer,Eye Concealer,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+eye-palettes,Eye Palettes,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+makeup-palette,Face Palettes,eye-makeup,Face Makeup,3,1,1,,products_only
+loose-powder,Loose Powder,eye-makeup,Face Makeup,3,1,1,,products_only
+pressed-powder,Pressed Powder,eye-makeup,Face Makeup,3,1,1,,products_only
+primer-makeup-base,Primer/Makeup Base,eye-makeup,Face Makeup,3,1,1,,products_only
+givenchy,Givenchy,brands-g-i,G-I,3,1,1,,products_only
+glam-glow,GLAMGLOW,brands-g-i,G-I,3,1,1,,products_only
+gucci,Gucci,brands-g-i,G-I,3,1,1,,products_only
+guerlain,Guerlain,brands-g-i,G-I,3,1,1,,products_only
+helena-rubinstein,Helena Rubinstein,brands-g-i,G-I,3,1,1,,products_only
+hourglass,Hourglass,brands-g-i,G-I,3,1,1,,products_only
+huda-beauty,Huda Beauty,brands-g-i,G-I,3,1,1,,products_only
+jane-iredale,Jane Iredale,brands-j-l,J-L,3,1,1,,products_only
+jurlique,Jurlique,brands-j-l,J-L,3,1,1,,products_only
+kerastase,KÃ©rastase,brands-j-l,J-L,3,1,1,,products_only
+kevyn-aucoin,Kevyn Aucoin,brands-j-l,J-L,3,1,1,,products_only
+kiehls,Kiehl's,brands-j-l,J-L,3,1,1,,products_only
+koh-gen-do,Koh Gen Do,brands-j-l,J-L,3,1,1,,products_only
+kose,KOSÃ‰,brands-j-l,J-L,3,1,1,,products_only
+la-mer,La Mer,brands-j-l,J-L,3,1,1,,products_only
+la-prairie,La Prairie,brands-j-l,J-L,3,1,1,,products_only
+la-roche-posay,La Roche-Posay,brands-j-l,J-L,3,1,1,,products_only
+l-occitane,Lâ€™Occitane,brands-j-l,J-L,3,1,1,,products_only
+lancome,LancÃ´me,brands-j-l,J-L,3,1,1,,products_only
+laura-mercier,Laura Mercier,brands-j-l,J-L,3,1,1,,products_only
+m-a-c,M.A.C,brands-m-p,M-P,3,1,1,,products_only
+nars,NARS,brands-m-p,M-P,3,1,1,,products_only
+natura-bisse,Natura BissÄ“,brands-m-p,M-P,3,1,1,,products_only
+neostrata,NeoStrata,brands-m-p,M-P,3,1,1,,products_only
+olaplex,OLAPLEX,brands-m-p,M-P,3,1,1,,products_only
+oribe,Oribe,brands-m-p,M-P,3,1,1,,products_only
+origins,Origins,brands-m-p,M-P,3,1,1,,products_only
+peter-thomas-roth,Peter Thomas Roth,brands-m-p,M-P,3,1,1,,products_only
+philosophy,Philosophy,brands-m-p,M-P,3,1,1,,products_only
+mens-skincare,Men's Skincare,mens-1,MEN'S,3,1,1,,products_only
+ricco-di-natura,Ricco Di Natura,brands-q-s,Q-S,3,1,1,,products_only
+rmk,RMK,brands-q-s,Q-S,3,1,1,,products_only
+rms-beauty,rms beauty,brands-q-s,Q-S,3,1,1,,products_only
+sachajuan,Sachajuan,brands-q-s,Q-S,3,1,1,,products_only
+shiseido,Shiseido,brands-q-s,Q-S,3,1,1,,products_only
+sisley,Sisley,brands-q-s,Q-S,3,1,1,,products_only
+sk-ii,SK-II,brands-q-s,Q-S,3,1,1,,products_only
+skinceuticals,SkinCeuticals,brands-q-s,Q-S,3,1,1,,products_only
+stila,Stila,brands-q-s,Q-S,3,1,1,,products_only
+strivectinÂ®,StriVectin,brands-q-s,Q-S,3,1,1,,products_only
+sulwhasoo,Sulwhasoo,brands-q-s,Q-S,3,1,1,,products_only
+sun-protection,Sun Protection,sun-care,Sun Care,3,1,1,,products_only
+tarte,Tarte,brands-t-v,T-V,3,1,1,,products_only
+the-history-of-whoo,The History Of Whoo,brands-t-v,T-V,3,1,1,,products_only
+the-ordinary,The Ordinary,brands-t-v,T-V,3,1,1,,products_only
+tom-ford,Tom Ford,brands-t-v,T-V,3,1,1,,products_only
+too-faced,Too Faced,brands-t-v,T-V,3,1,1,,products_only
+urban-decay,Urban Decay,brands-t-v,T-V,3,1,1,,products_only
+eyelash-curler,Eyelash Curler,tools,TOOLS,3,1,1,,products_only
+makeup-brushes,Makeup Brushes,tools,TOOLS,3,1,1,,products_only
+roller,Roller,tools,TOOLS,3,1,1,,products_only
+yon-ka,Yon-Ka,brands-w-z,W-Z,3,1,1,,products_only
+yves-saint-laurent,Yves Saint Laurent,brands-w-z,W-Z,3,1,1,,products_only
+blemish--acne-treatments,Blemish & Acne Treatments,face,FACE,3,1,1,,products_only
+body-sprays--deodorant,Body Sprays & Deodorant,body-care,Body Care,3,1,1,,products_only
+bronzer,Bronzer,face-makeup,Face Makeup,3,1,1,,products_only
+brushes--applicators,Brushes & Applicators,tools,TOOLS,3,1,1,,products_only
+cheek-palettes,Cheek Palettes,face-makeup,Face Makeup,3,1,1,,products_only
+essence-lotion,Essence lotion,face,FACE,3,1,1,,products_only
+essence-oil,Essence oil,face,FACE,3,1,1,,products_only
+exfoliators,Exfoliators,face,FACE,3,1,1,,products_only
+eye-primer,Eye Primer,eyes,FACE,3,1,1,,products_only
+face-primer,Face Primer,face,FACE,3,1,1,,products_only
+face-sets,Face Sets,face,FACE,3,1,1,,products_only
+face-sunscreen,Face Sunscreen,sun-care,Sun Care,3,1,1,,products_only
+face-wash--cleansers,Face Wash & Cleansers,face,FACE,3,1,1,,products_only
+face-wipes,Face Wipes,face,FACE,3,1,1,,products_only
+facial-peels,Facial Peels,face,FACE,3,1,1,,products_only
+foot-cream,Foot Cream,body-moisturizers,Body Moisturizers,3,1,1,,products_only
+hair-oil,Hair Oil,hair,HAIR,3,1,1,,products_only
+hair-styling,Hair Styling,hair,HAIR,3,1,1,,products_only
+hair-styling--treatments,Hair Styling & Treatments,hair,HAIR,3,1,1,,products_only
+hair-thinning--hair-loss,Hair Thinning & Hair Loss,hair,HAIR,3,1,1,,products_only
+leavein-conditioner,Leave-In Conditioner,hair,HAIR,3,1,1,,products_only
+lip-liner,Lip Liner,lips,LIPS,3,1,1,,products_only
+lip-scrub,Lip Scrub,lips,LIPS,3,1,1,,products_only
+lip-sets,Lip Sets,lips,LIPS,3,1,1,,products_only
+lip-treatments,Lip Treatments,lips,LIPS,3,1,1,,products_only
+liquid-lipstick,Liquid Lipstick,lips,LIPS,3,1,1,,products_only
+lotions--oils,Lotions & Oils,body-care,Body Care,3,1,1,,products_only
+mists--essences,Mists & Essences,face,FACE,3,1,1,,products_only
+moisturizer,Moisturizer,face,FACE,3,1,1,,products_only
+self-tanning,Self Tanning,body-care,Body Care,3,1,1,,products_only
+undereye-concealer,Under-Eye Concealer,eye-makeup,EYE MAKEUP,3,1,1,,products_only
+manicuring,Manicure,makeup,Makeup,3,1,1,,products_only
+home-spray,Home Spray,bath-body,Bath & Body,3,1,1,,products_only
+hand-creme,Hand Cr�me,body-moisturizers,Body Moisturizers,3,1,1,,products_only

@@ -1,0 +1,72 @@
+version: '3'
+services:
+  app:
+    build:
+      context: ./Docker
+      dockerfile: Dockerfile
+    image: kalistabeauty/php
+    container_name: kalistabeauty
+    env_file: '.env'
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: app
+      SERVICE_TAGS: dev
+      TZ: '${APP_TIMEZONE-America/New_York}'
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www:cached
+      # - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
+    depends_on:
+      - mysql
+    links:
+      - mysql
+  # Nginx Service
+  # https://hub.docker.com/_/nginx
+  webserver:
+    image: nginx:1.18.0
+    container_name: nginx
+    restart: unless-stopped
+    environment:
+      TZ: '${APP_TIMEZONE-America/New_York}'
+    tty: true
+    ports:
+      - '${APP_PORT:-8990}:80'
+      - "8449:443"
+    volumes:
+      # app path on host:document root in container
+      - ./:/var/www:cached
+      - ./Docker/nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - app
+    links:
+      - app
+  # MySQL Service
+  mysql:
+    build:
+      context: ./Docker
+      dockerfile: mysql8.Dockerfile
+    image: 'kalistabeauty/mysql'
+    container_name: mysql
+    restart: unless-stopped
+    environment:
+      TZ: '${APP_TIMEZONE-America/New_York}'
+    tty: true
+    ports:
+        - '${FORWARD_DB_PORT:-3306}:3306'
+    env_file: '.env'
+    environment:
+        MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
+        MYSQL_DATABASE: '${DB_DATABASE}'
+        MYSQL_USER: '${DB_USERNAME}'
+        MYSQL_PASSWORD: '${DB_PASSWORD}'
+        MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
+    volumes:
+      - dbdata:/var/lib/mysql/
+      # - ./mysql/my.cnf:/etc/mysql/conf.d/config-file.cnf
+      # - ./Docker/mysql/my.cnf:/etc/mysql/my.cnf
+
+#Volumes
+volumes:
+  dbdata:
+    driver: local

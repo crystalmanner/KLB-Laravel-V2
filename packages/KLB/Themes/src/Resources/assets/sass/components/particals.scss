@@ -1,0 +1,74 @@
+.searchbar-klb{
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+
+
+    form{
+        border:1px solid #ebebeb;
+        margin-right:15px;
+
+        input{
+            border:none;
+            line-height:20px;
+            font-size:12px;
+            padding:8px 12px 6px 12px;
+        }
+        button{
+            padding: 9px 10px 7px;
+            margin-top: -5px;
+        }
+
+        svg{
+            fill: currentColor;
+            stroke: currentColor;
+            color: #000;
+        }
+    }
+
+
+    &.home{
+        form{
+            border:1px solid white;
+
+            input{
+                background-color: transparent;
+                color: #fff;
+
+                &::placeholder {
+                    color: white;
+                    opacity: 1;
+                }
+
+                &:-ms-input-placeholder {
+                    color: white;
+                }
+
+                &::-ms-input-placeholder {
+                    color: white;
+                }
+            }
+
+            svg{
+                color:white;
+            }
+        }
+
+
+    }
+
+}
+
+.mini-cart-content{
+    svg{
+        fill: currentColor;
+        stroke: currentColor;
+        color: #000;
+    }
+    &.home{
+        svg{
+            color:white;
+        }
+    }
+
+}

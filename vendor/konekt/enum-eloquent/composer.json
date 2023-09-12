@@ -1,0 +1,48 @@
+{
+    "name": "konekt/enum-eloquent",
+    "description": "Enum attribute casting for Eloquent models",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["enum", "konekt", "artkonekt", "laravel", "eloquent"],
+    "support": {
+        "source": "https://github.com/artkonekt/enum-eloquent"
+    },
+    "authors": [
+        {
+            "name": "Attila Fulop",
+            "homepage": "https://github.com/fulopattila122"
+        },
+        {
+            "name": "Semyon Chetvertnyh",
+            "homepage": "https://github.com/semyonchetvertnyh"
+        },
+        {
+            "name": "Mark Boessenkool",
+            "homepage": "https://github.com/TheM1984"
+        }
+    ],
+    "require": {
+        "php": "^7.3 | ^8.0",
+        "konekt/enum": "^2.0.2 || ^3.0.0",
+        "illuminate/database": "6.*|7.*|8.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8 - 9",
+        "illuminate/events": "6.*|7.*|8.*"
+    },
+    "autoload": {
+        "psr-4": { "Konekt\\Enum\\Eloquent\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Konekt\\Enum\\Eloquent\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Konekt\\Enum\\Eloquent\\EnumServiceProvider"
+            ]
+        }
+    }
+}

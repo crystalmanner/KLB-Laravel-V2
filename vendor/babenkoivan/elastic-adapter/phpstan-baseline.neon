@@ -1,0 +1,7 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Parameter \\#1 \\$str of function strtolower expects string, string\\|null given\\.$#"
+			count: 1
+			path: src/Support/Str.php
+

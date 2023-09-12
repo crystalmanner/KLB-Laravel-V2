@@ -1,0 +1,76 @@
+.row{
+    // display: flex;
+    // justify-content: center;
+    .homestyle-btn{
+        display: inline-block;
+        vertical-align: middle;
+        width: 100%;
+        max-width: 300px;
+        min-width: 130px;
+        background: #548e9c;
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: 700;
+        letter-spacing: .05em;
+        font-size: 13px;
+        line-height: 20px;
+        padding: 8px 15px 6px;
+        border: 1px solid transparent;
+    
+    
+        &:hover{
+            background-color: black;
+        }
+    }
+    &.justify-center{
+        display: flex; 
+        justify-content: center;
+    }
+}
+
+.lamer-banner{
+    cursor: pointer;
+    display:block; 
+    height: 500px; 
+    width: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed;
+    background-image: url(//cdn.shopify.com/s/files/1/0256/6140/7277/files/lamer.jpg?v=1594838146);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .lamer-content{
+        font-weight: 700;
+        letter-spacing: .05em;
+        text-transform: uppercase;
+        .lamer-title{
+            font-family: Poppins,"Arial","sans-serif";
+            font-size: 40px;
+            color: #232323;
+            font-family: inherit;
+            padding-bottom: 27px;
+            font-weight:1000;
+        }
+        .lamer-btn{
+            background-color: #232323;
+            border-color: #232323;
+            color: #ffffff;
+            min-width: 237px;
+            padding: 10px 20px 8px;
+            font-size: 13px;
+            line-height: 20px;
+        }
+    }
+}
+
+@media (min-width: 1200px){
+    .col5{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}

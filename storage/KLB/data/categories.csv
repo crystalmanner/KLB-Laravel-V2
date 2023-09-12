@@ -1,0 +1,85 @@
+slug,name,description,position,status,display_mode,parent_id
+face-serums,Face Serums,,1,1,products_only,1
+moisturizer,Moisturizer,,1,1,products_only,1
+cleansers--toners,Cleansers & Toners,,1,1,products_only,1
+face-masks,Face Masks,,1,1,products_only,1
+face-wash--cleansers,Face Wash & Cleansers,,1,1,products_only,1
+hand-cream,Hand Cream,,1,1,products_only,1
+hair-styling,Hair Styling,,1,1,products_only,1
+scalp--hair-treatments,Scalp & Hair Treatments,,1,1,products_only,1
+eye-creams,Eye Creams,,1,1,products_only,1
+set,Set,,1,1,products_only,1
+shampoo,Shampoo,,1,1,products_only,1
+hair-masks,Hair Masks,,1,1,products_only,1
+conditioner,Conditioner,,1,1,products_only,1
+sun-care,Sun Care,,1,1,products_only,1
+face-primer,Face Primer,,1,1,products_only,1
+mascara,Mascara,,1,1,products_only,1
+highlighter,Highlighter,,1,1,products_only,1
+hair-brushes--combs,Hair Brushes & Combs,,1,1,products_only,1
+scrub--exfoliants,Scrub & Exfoliants,,1,1,products_only,1
+decollete--neck-creams,Decollete & Neck Creams,,1,1,products_only,1
+hair-styling--treatments,Hair Styling & Treatments,,1,1,products_only,1
+night-creams,Night Creams,,1,1,products_only,1
+bb--cc-cream,BB & CC Cream,,1,1,products_only,1
+face-oils,Face Oils,,1,1,products_only,1
+body-moisturizers,Body Moisturizers,,1,1,products_only,1
+treatments,Treatments,,1,1,products_only,1
+hair-oil,Hair Oil,,1,1,products_only,1
+brushes--applicators,Brushes & Applicators,,1,1,products_only,1
+face-sets,Face Sets,,1,1,products_only,1
+moisturizers,Moisturizers,,1,1,products_only,1
+toners,Toners,,1,1,products_only,1
+facial-peels,Facial Peels,,1,1,products_only,1
+eye-serum--treatments,Eye Serum & Treatments,,1,1,products_only,1
+mists--essences,Mists & Essences,,1,1,products_only,1
+essence-lotion,Essence lotion,,1,1,products_only,1
+cellulite--stretch-marks,Cellulite & Stretch Marks,,1,1,products_only,1
+contour,Contour,,1,1,products_only,1
+lip-gloss,Lip Gloss,,1,1,products_only,1
+concealer,Concealer,,1,1,products_only,1
+lip-liner,Lip Liner,,1,1,products_only,1
+lip-scrub,Lip Scrub,,1,1,products_only,1
+tinted-moisturizer,Tinted Moisturizer,,1,1,products_only,1
+self-tanning,Self Tanning,,1,1,products_only,1
+setting-spray--powder,Setting Spray & Powder,,1,1,products_only,1
+lip-treatments,Lip Treatments,,1,1,products_only,1
+eyeshadow,Eyeshadow,,1,1,products_only,1
+foundation,Foundation,,1,1,products_only,1
+blush,Blush,,1,1,products_only,1
+liquid-lipstick,Liquid Lipstick,,1,1,products_only,1
+color-correct,Color Correct,,1,1,products_only,1
+eyeliner,Eyeliner,,1,1,products_only,1
+lipstick,Lipstick,,1,1,products_only,1
+cheek-palettes,Cheek Palettes,,1,1,products_only,1
+makeup-removers,Makeup Removers,,1,1,products_only,1
+bronzer,Bronzer,,1,1,products_only,1
+eyebrow,Eyebrow,,1,1,products_only,1
+eye-palettes,Eye Palettes,,1,1,products_only,1
+eye-primer,Eye Primer,,1,1,products_only,1
+lip-plumper,Lip Plumper,,1,1,products_only,1
+exfoliators,Exfoliators,,1,1,products_only,1
+body-care,Body Care,,1,1,products_only,1
+deodorant--antiperspirant,Deodorant & Antiperspirant,,1,1,products_only,1
+lip-balm,Lip Balm,,1,1,products_only,1
+face-sunscreen,Face Sunscreen,,1,1,products_only,1
+hand-creme,hand creme,,1,1,products_only,1
+body-wash--shower-gel,Body Wash & Shower Gel,,1,1,products_only,1
+lip-sets,Lip Sets,,1,1,products_only,1
+lip-stain,Lip Stain,,1,1,products_only,1
+eye-masks,Eye Masks,,1,1,products_only,1
+lotions--oils,Lotions & Oils,,1,1,products_only,1
+styling,Styling,,1,1,products_only,1
+foot-cream,Foot Cream,,1,1,products_only,1
+blemish--acne-treatments,Blemish & Acne Treatments,,1,1,products_only,1
+hair-thinning--hair-loss,Hair Thinning & Hair Loss,,1,1,products_only,1
+shaving--bleaching,Shaving & Bleaching,,1,1,products_only,1
+leavein-conditioner,Leave-In Conditioner,,1,1,products_only,1
+hand-wash--soap,Hand Wash & Soap,,1,1,products_only,1
+body-sprays--deodorant,Body Sprays & Deodorant,,1,1,products_only,1
+essence-oil,Essence oil,,1,1,products_only,1
+bath-soaks--bubble-bath,Bath Soaks & Bubble Bath,,1,1,products_only,1
+oral-hygiene,Oral Hygiene,,1,1,products_only,1
+undereye-concealer,Under-Eye Concealer,,1,1,products_only,1
+face-wipes,Face Wipes,,1,1,products_only,1
+accessories,Accessories,,1,1,products_only,1

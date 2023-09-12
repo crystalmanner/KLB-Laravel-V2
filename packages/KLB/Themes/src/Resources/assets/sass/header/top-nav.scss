@@ -1,0 +1,59 @@
+#top{
+    background-color: #eee;
+
+    #top-banner{
+        font-family: Poppins,"Arial","sans-serif";
+        padding:10px;
+        display:block;
+        color:white;
+        background-color:black;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: .05em;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 20px;
+        
+
+    }
+
+
+    &.home{
+        background-color:transparent;
+
+        #top-banner{
+            background-color: #548e9c;
+        }
+    }
+}
+
+#sticky-banner{
+    //position: -webkit-sticky; /* Safari */
+    position: fixed;
+    background-color: black;
+    text-align: center;
+    display:block;
+    top:0;
+    left:0;
+    width:100vw;
+    line-height: 30px;
+    margin:0 auto !important;
+    font-size: 13px;
+    z-index: 100;
+
+
+    p{
+        color:white;
+        text-align: center;
+        vertical-align: middle;
+        font-weight: 500;
+        text-transform: uppercase;
+        padding:10px;
+        margin:0;
+    }
+
+    button{
+        float:right;
+    }
+    
+}
